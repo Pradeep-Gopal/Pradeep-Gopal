@@ -13,12 +13,12 @@
 
 <p align="center">
   <a href="mailto: pradeepg@terpmail.umd.edu">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/email.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/email.png", style="border:0px;margin:0px;float:right" height = "80" width="80"/>
   </a>
 
 
   <a href="https://www.linkedin.com/in/pradeepgopal1997/">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin2.png" style=”float:right” height = "100" width="100" />
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin2.png" style=”float:right” height = "110" width="110" />
   </a>
                                                                                       
   <a href="https://www.youtube.com/channel/UCWXz8b-NPmjMEIW5q49Y_eA">
