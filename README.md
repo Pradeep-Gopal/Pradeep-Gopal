@@ -18,7 +18,7 @@
 
 
   <a href="https://www.linkedin.com/in/pradeepgopal1997/">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin.png" style=”float:right” height = "80" width="80" />
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin2.png" style=”float:right” height = "100" width="100" />
   </a>
                                                                                       
   <a href="https://www.youtube.com/channel/UCWXz8b-NPmjMEIW5q49Y_eA">
