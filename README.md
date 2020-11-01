@@ -1,12 +1,13 @@
-### Hi there 👋
-
 <!--
+
 **Pradeep-Gopal/Pradeep-Gopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋
+
 <p align="center">
   <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/Intro.png", style="border:0px;margin:0px;float:right" />
 </p>
+
+### Hi there 👋
 
 <p align="center">
   <a href="mailto: pradeepg@terpmail.umd.edu">
