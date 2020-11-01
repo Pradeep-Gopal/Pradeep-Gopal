@@ -3,22 +3,6 @@
 <!--
 **Pradeep-Gopal/Pradeep-Gopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<!--
-
-Here are some ideas to get you started:
-**govindak-umd/govindak-umd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-<p align="center">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_cover.PNG", style="border:0px;margin:0px;float:right" />
-</p>
-
-</p>
--->
-
 ### Hi there 👋
 <p align="center">
   <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/Intro.png", style="border:0px;margin:0px;float:right" />
