@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto: pradeepg@terpmail.umd.edu">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/email.png", style="border:0px;margin:0px;float:right" height = "80" width="80"/>
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/gmail2.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
   </a>
 
 
