@@ -43,7 +43,7 @@ I love working on challenging problems, and a fast-moving, dynamic culture is in
 - 🌱 I’m currently studying for my Masters in Robotics from the University of Maryland, College Park.
 - 📫 How to reach me: pradeepg@terpmail.umd.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 3D printers and have experience working on building the Firmware and Electronics Framework India's Largest 3D printer
+- ⚡ Fun fact: I love 3D printers and have experience working on building the Firmware and Electronics Framework for India's Largest 3D printer
 
 [![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=Pradeep-Gopal)](https://github.com/anuraghazra/github-readme-stats)
 
